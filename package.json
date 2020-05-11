@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "cybersource-rest-client": "0.0.5",
-    "eslint": "^5.9.0",
+    "eslint": "^7.0.0",
     "jwk-to-pem": "^2.0.0"
   }
 }
